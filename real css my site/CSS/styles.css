@@ -1,0 +1,52 @@
+.top {
+  position: relative;
+  padding-top: 100px;
+  background-color: #cbf1f5;
+}
+
+.mid {
+text-align: center;
+background-color: #cbf1f5;
+}
+
+.bottom {
+
+}
+
+.h1 {
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+}
+
+.firstP {
+  text-align: center;
+}
+
+.TopCloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+.BottomCloud{
+  position: absolute;
+left: 240px;
+
+}
+.mountain{
+  width: 50%;
+  margin-left: 250px;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+}
+
+h3{
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+hr{
+
+}
